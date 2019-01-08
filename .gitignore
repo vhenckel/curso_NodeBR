@@ -7,4 +7,5 @@
 08-multi-db-postgres/node_modules
 09-multi-db-mongodb/node_modules
 10-multi-db-refactoring-mongodb/node_modules
-
+11-multi-db-refactoring-postgres/node_modules
+12*/node_modules

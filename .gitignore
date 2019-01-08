@@ -6,4 +6,5 @@
 07-multi-db/node_modules
 08-multi-db-postgres/node_modules
 09-multi-db-mongodb/node_modules
+10-multi-db-refactoring-mongodb/node_modules
 
